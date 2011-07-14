@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="item_number_bg_color">#ECECEC</color>
+  	<color name="item_number_font_color">#000000</color>
+</resources>

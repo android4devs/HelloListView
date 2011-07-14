@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">HelloListView</string>
+    <string name="app_header">Multilingual \"Hello\"</string>
+    <string name="hint">Tap language name to show its \"Hello\" phrase.</string>
+    <string-array name="languages">
+		<item>Albanian</item>
+		<item>English</item>
+		<item>Arabic</item>
+		<item>Bulgarian</item>
+		<item>Chinese</item>
+		<item>Czech</item>
+		<item>Danish</item>
+		<item>Esperanto</item>
+		<item>Estonian</item>
+		<item>Filipino</item>
+		<item>Finnish</item>
+		<item>French</item>
+		<item>Greek</item>
+		<item>Spanish</item>
+		<item>Dutch</item>
+		<item>Icelandic</item>
+		<item>Irish</item>
+		<item>Japanese</item>
+		<item>Korean</item>
+		<item>Latin</item>
+		<item>German</item>
+		<item>Norwegian</item>
+		<item>Portuguese</item>
+		<item>Polish</item>
+		<item>Russian</item>
+		<item>Romanian</item>
+		<item>Serbian</item>
+		<item>Swedish</item>
+		<item>Slovak</item>
+		<item>Slovenian</item>
+		<item>Turkish</item>
+		<item>Ukrainian</item>
+		<item>Hungarian</item>
+		<item>Italian</item>
+    </string-array>
+    <string-array name="hello_phrases">
+		<item>Tungjatjeta</item>
+		<item>Hello</item>
+		<item>Marhaba</item>
+		<item>Zdrawejte</item>
+		<item>Neih hou</item>
+		<item>Nazdar</item>
+		<item>Goddag</item>
+		<item>Saluton</item>
+		<item>Tervist</item>
+		<item>Huy</item>
+		<item>Paivaa</item>
+		<item>Salut</item>
+		<item>Geia siou</item>
+		<item>Hola</item>
+		<item>Hallo</item>
+		<item>Godan</item>
+		<item>Haileo</item>
+		<item>Konnichi wa</item>
+		<item>Annyong</item>
+		<item>Salve</item>
+		<item>Gruess dich</item>
+		<item>Goddag</item>
+		<item>Oi</item>
+		<item>Cześć</item>
+		<item>Priwiet</item>
+		<item>Buna</item>
+		<item>Zdravo</item>
+		<item>Hejsan</item>
+		<item>Ahoj</item>
+		<item>Zhivjo</item>
+		<item>Selam</item>
+		<item>Prywit</item>
+		<item>Szervusz</item>
+		<item>Ciao</item>
+    </string-array>
+</resources>
